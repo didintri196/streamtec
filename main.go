@@ -19,7 +19,7 @@ func main() {
 
 	util.StartDB()
 	gin.SetMode(gin.DebugMode)
-	log.Print("Starting the pagu app")
+	log.Print("Starting the pagu apps")
 	middleware.StartEngine()
 	middleware.Middleware()
 

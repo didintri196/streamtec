@@ -1,0 +1,1 @@
+{"url_server":"http://36.89.38.193/streamer/","path_m3u8":"C:/Users/Administrator/Documents/nodeprobolinggo/public/streamer/","camera":[{"id":0,"rtsp":"rtsp://admin:12345hik@192.168.7.227/Streaming/Channels/1","nama":"Streaming 1","path":"streaming-1"},{"id":1,"rtsp":"rtsp://admin:12345hik@192.168.7.124/Streaming/Channels/1","nama":"Streaming 2","path":"streaming-2"}]}
